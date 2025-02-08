@@ -1,4 +1,4 @@
-package com.emre._1_part_javatype;
+package com.emre._1_week;
 
 public class _02_JavaDataTypes {
     public static void main(String[] args) {
