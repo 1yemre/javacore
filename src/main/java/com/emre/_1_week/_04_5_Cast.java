@@ -32,12 +32,11 @@ public class _04_5_Cast {
         System.out.println(cast4Int2+20);
 
 
+
         // 5-) int => String
         int cast5Int=55;
         String cast5String1=String.valueOf(cast5Int);
         System.out.println(cast5String1);
-
-
 
     }
 
